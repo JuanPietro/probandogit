@@ -1,0 +1,1776 @@
+"Welcome_Label" = "Welcome";
+
+"Title_Dashboard" = "Dashboard";
+
+"Title_Live" = "Live";
+
+"Title_Footage" = "Footage";
+
+"Title_Saved" = "Saved";
+
+"Title_Support" = "Support";
+
+"Title_Settings" = "Settings";
+
+"Title_MyAccount" = "Logout";
+
+"Title_Ticket" = "Ticket";
+
+"Title_FAQ" = "FAQ";
+
+"Title_Manuals" = "Manuals & Tips";
+
+"Title_Recordings" = "Recordings";
+
+"Title_SettingsCameras" = "Cameras";
+
+"Title_SettingsCameraGroups" = "Groups";
+
+"Title_ModifyCameraSettings" = "Camera settings";
+
+"Title_SettingsLocations" = "Locations";
+
+"Title_Connection" = "Connection";
+
+"Title_About" = "About";
+
+"LoginViewController_EmailPlaceholer" = "Email";
+
+"LoginViewController_PasswordPlaceholer" = "Password";
+
+"LoginViewController_LoginButton" = "Login";
+
+"LoginViewController_TroubleButton" = "Trouble logging in?";
+
+"LoginViewController_InfoLabel" = "New to %@?";
+
+"LoginViewController_InfoButton" = "Get to know us";
+
+"HelpLoginViewController_Title" = "Trouble logging in?";
+
+"HelpLoginViewController_Send" = "Send";
+
+"HelpLoginViewController_BackToLogin" = "Back to login";
+
+"HelpLoginViewController_ForgotPassword" = "I forgot my password";
+
+"HelpLoginViewController_ForgotPasswordDescription" = "Enter your account's email address and we will send you an email to reset your password.";
+
+"HelpLoginViewController_ForgotUser" = "I forgot my user name / email address";
+
+"HelpLoginViewController_ForgotUserDescription" = "Please contact your supervisor. If you are the supervisor, please contact our support team.";
+
+"HelpLoginViewController_ContactSupport" = "Contact support";
+
+"HelpLoginViewController_SupportMailSubject" = "Forgot password";
+
+"RecordingsPerCameraTableViewController_NoFootage" = "This camera has no recorded footage!";
+
+"InfoViewController_BuyNow" = "Buy now";
+
+"InfoViewController_TryDemo" = "Try demo";
+
+"InfoViewController_DismissButton" = "Back to login";
+
+"InfoViewController_DismissButton2" = "Back to login";
+
+"InfoViewController_Convinced" = "Convinced?";
+
+"InfoViewController_NotConvinced" = "Not yet convinced?";
+
+"InfoViewController_YourEyes" = "Your eyes, everywhere";
+
+"InfoViewController_GetNotified" = "Get notified";
+
+"InfoViewController_FirstText" = "The app will send a notification when an event is detected, so you can take direct action.";
+
+"InfoViewController_SecondText" = "Cloud-based camera surveillance. Keep your eyes on important things with your Computer, smartphone & tablet.";
+
+"CameraSearchView_Placeholder" = "Camera / Location";
+
+"LiveStreamViewController_Locations" = "Locations";
+
+"LiveStreamViewController_Groups" = "Groups";
+
+"LiveStreamViewController_MultiViews" = "Multi views";
+
+"LiveStreamViewController_UnknownGroup" = "No name";
+
+"LiveStreamViewController_NoCameraSelected" = "No camera selected";
+
+"LiveStreamViewController_SelectedCamera" = "Camera";
+
+"LiveStreamViewController_Location" = "Location";
+
+"LiveStreamViewController_Brand" = "Brand";
+
+"LiveStreamViewController_Model" = "Model";
+
+"LiveStreamViewController_LoadLatestRecordings" = "Loading latest recordings for camera '%@'...";
+
+"LiveStreamViewController_NoCameraInAccount" = "There are currently no cameras in your account, click the button in order to add a new camera!";
+
+"LiveStreamViewController_NoGroupsInAccount" = "There are currently no groups in your account, click the button in order to add a new group!";
+
+"RecordingsPlaybackViewController_NoRecordingSelected" = "No recording selected";
+
+"SupportViewController_GetSupport" = "Get Support";
+
+"SupportViewController_About" = "About the app";
+
+"SupportViewController_CreateTicket" = "Create a support ticket";
+
+"SupportViewController_Call" = "Call our support team";
+
+"SupportViewController_CallInfo" = "Monday - Friday, 9AM - 5.30PM";
+
+"SupportViewController_OpenLink" = "Open in Safari";
+
+"SupportViewController_ContactDevTeam" = "Contact developers";
+
+"SupportViewController_ContactDevTeamInfo" = "Provide immediate feedback";
+
+"SupportViewController_MailSubject" = "%@ iOS Feedback";
+
+"DummyViewController_CallUs" = "Call us";
+
+"DummyViewController_MoreSettings" = "More settings";
+
+"DummyViewController_CallInfo" = "Our support team is available at the following times:";
+
+"DummyViewController_TimeInfo" = "Dutch time: GMT+1";
+
+"DummyViewController_ChargesInfo" = "(International) charges may apply";
+
+"DummyViewController_Welcome" = "Welcome to %@";
+
+"DummyViewController_Start" = "Choose a menu point from the left to start!";
+
+"TicketViewController_Submit" = "Submit";
+
+"TicketViewController_NamePlaceholder" = "Your name";
+
+"TicketViewController_NameLabel" = "Your name";
+
+"TicketViewController_eMailPlaceholder" = "Your email address";
+
+"TicketViewController_eMailLabel" = "Your email address";
+
+"TicketViewController_PhonePlaceholer" = "Your phone number";
+
+"TicketViewController_PhoneLabel" = "Your phone number";
+
+"TicketViewController_SubjectLabel" = "Subject";
+
+"TicketViewController_DescriptionLabel" = "Description";
+
+"TicketViewController_MeantForLabel" = "Meant for";
+
+"TicketViewController_Support" = "Support";
+
+"TicketViewController_Sales" = "Sales";
+
+"TicketViewController_Administration" = "Administration";
+
+"TicketViewController_Ideas" = "Ideas";
+
+"TicketViewController_SelectDepartment" = "Select Department";
+
+"TicketViewController_SubjectPlaceholder" = "Subject";
+
+"SupportViewController_GeneralSettings" = "General";
+
+"SettingsViewController_CameraSettings" = "Cameras";
+
+"SettingsViewController_PushSettings" = "Push Notifications";
+
+"SettingsViewController_InfoLabel" = "Looking for more settings?";
+
+"SettingsViewController_InfoText" = "The Java app for Windows, Mac OS X & Linux offers more in-depth settings for cameras, sequences, users and logs & stats";
+
+"SettingsViewController_Update" = "Update";
+
+"SettingsViewController_LocationSettings" = "Locations";
+
+"SettingsViewController_CameraGroupSettings" = "Groups";
+
+"SettingsViewController_ConnectionSettings" = "Connection";
+
+"SettingsViewController_Delete" = "Delete";
+
+"SettingsViewController_Remove" = "Remove";
+
+"SettingsViewController_AddCameras" = "Add Cameras";
+
+"PushSettingsViewController_Title" = "Push";
+
+"PushSettingsViewController_TitleLabel" = "Receive push notifications";
+
+"PushSettingsViewController_EnabledSwitch" = "Push notifications enabled";
+
+"PushSettingsViewController_DetailsLabel" = "Details";
+
+"PushSettingsViewController_MotionDetectionSwitch" = "Motion detection";
+
+"PushSettingsViewController_CameraOfflineSwitch" = "Camera offline";
+
+"PushSettingsViewController_OneHour" = "After one hour";
+
+"PushSettingsViewController_OneDay" = "After one day";
+
+"PushSettingsViewController_OneWeek" = "After one week";
+
+"PushSettingsViewController_OneMonth" = "After one month";
+
+"PushSettingsViewController_Update" = "Update";
+
+"ImageModes_360" = "360 Image modes";
+
+"Fisheye_360" = "Fisheye";
+
+"Quad_360" = "Quad";
+
+"Single_360" = "Single";
+
+"PanoramicWall_360" = "Panoramic - Wall";
+
+"PanoramicCeiling_360" = "Panoramic - Ceiling";
+
+"ConnectionSettingsViewController_BandwidthTitle" = "Bandwidth";
+
+"ConnectionSettingsViewController_LowBandwidth" = "Low bandwidth";
+
+"ConnectionSettingsViewController_InfoText" = "The low bandwidth option is recommended when you are on a cellular network instead of Wi-Fi.";
+
+"ManualViewController_UserManuals" = "User Manuals";
+
+"ManualViewController_InstallationGuides" = "Installation Guides";
+
+"ManualViewController_CameramanagerUserManual" = "%@ Manual";
+
+"ManualViewController_LSUInstallationGuide" = "LSU Installation";
+
+"ManualViewController_OpenLink" = "Open in Safari";
+
+"IOSelectionView_Title" = "Camera outputs";
+
+"IOSelectionView_ID" = "Output ID";
+
+"IOSelectionView_Submit" = "Submit";
+
+"IOSelectionView_DataNotLoaded" = "Loading values for camera outputs...";
+
+"AboutViewController_Version" = "Version %@";
+
+"CameraSettings_Name" = "Name";
+
+"CameraSettings_Location" = "Location";
+
+"CameraSettings_Username" = "Username";
+
+"CameraSettings_Password" = "Password";
+
+"CameraSettings_Brand" = "Brand";
+
+"CameraSettings_Model" = "Model";
+
+"CameraSettings_GlobalURL" = "Global URL";
+
+"CameraSettings_LocalURL" = "Local URL";
+
+"CameraSettings_OAK" = "OAK";
+
+"CameraSettings_AddCamera" = "Add camera";
+
+"CameraSettings_AddNewCamera" = "Add new camera";
+
+"CameraConnectionSettingsViewController_ConfirmButton" = "Enable wireless";
+
+"DateHelper_Today" = "today";
+
+"DateHelper_Yesterday" = "yesterday";
+
+"DateHelper_LastMonth" = "last month";
+
+"DateHelper_XDaysAgo" = "%d days ago";
+
+"DateHelper_Earlier" = "earlier";
+
+"LatestRecordingProvider_LatestFootage" = "Latest footage";
+
+"LatestRecordingProvider_LatestFootageFrom" = "Latest footage from %@";
+
+"PresetsControlView_NoPresets" = "This camera has no PTZ presets.";
+
+"PresetsControlView_Title" = "PTZ Presets";
+
+"LocationSettingsViewController_AllLocations" = "All locations";
+
+"LocationSettings_LocationName" = "Name";
+
+"LocationSettings_Cameras" = "cameras";
+
+"LocationSettings_NumberCameras" = "Cameras";
+
+"LocationSettings_Location" = "Location";
+
+"LocationSettings_LocationNamePleaceholder" = "Enter a location name";
+
+"LocationSettings_AddLocation" = "Add location";
+
+"CameraGroupsSettings_AddGroup" = "Add group";
+
+"CameraGroupsSettings_GroupNamePleaceholder" = "Group name";
+
+"CameraGroupsSettings_GroupName" = "Name";
+
+"CameraGroupsSettings_Title" = "Groups";
+
+"Alert_NoRecordingsAvailable_Title" = "Alert";
+
+"Alert_NoRecordingsAvailable_Message" = "There are no recordings available. The live stream of the camera will be opened!";
+
+"Alert_SureToLogout_Title" = "Logout";
+
+"Alert_SureToLogout_Message" = "Do you really want to log out?";
+
+"Alert_SureToCall_Title" = "Call Support";
+
+"Alert_SureToCall_Message" = "Do you want to call our %@ support? (International) charges for the call may apply for the call.";
+
+"Alert_BadMjpgStream_Title" = "Sorry";
+
+"Alert_BadMjpgStream_Message" = "Your internet connection doesn't seem to be stable, the stream will be paused.";
+
+"Alert_SureToTakeSnapshot_Title" = "Snapshot";
+
+"Alert_SureToTakeSnapshot_Message" = "Would you like to take a snapshot with camera '%@' now?";
+
+"Alert_SureToStartRecording_Title" = "Recording";
+
+"Alert_SureToStartRecording_Message" = "Do you want to start a recording on camera '%@' for the next 60 seconds?";
+
+"Alert_CouldNotConnectToServer_Title" = "Connection error";
+
+"Alert_CouldNotConnectToServer_Message" = "A connection with the server could not be established. If you experience further problems, please contact our support team!";
+
+"Alert_Alert_FolderNotFound_Title" = "Invalid location";
+
+"Alert_Alert_FolderNotFound_Message" = "Please choose a valid location before updating the camera settings!";
+
+"Alert_SureToDeleteLocation_Title" = "Delete '%@'";
+
+"Alert_SureToDeleteCameraGroup_Title" = "Remove '%@'";
+
+"Alert_SureToDeleteCameraGroup_Message" = "Actual recordings and camera will not be deleted. Are you sure you want to remove this group?";
+
+"Alert_SureToDeleteCameraFromGroup_Title" = "Remove '%@' from group";
+
+"Alert_SureToDeleteCameraFromGroup_Message" = "Actual recordings and camera will not be deleted. Are you sure you want to remove this camera from group?";
+
+"Alert_SureToDeleteLocation_Message" = "All the cameras and items it contains will be deleted as well, this action can not be undone! Do you really want to delete this location?";
+
+"Alert_LocationAlreadyExists_Title" = "Location already exsists";
+
+"Alert_LocationAlreadyExists_Message" = "A location with the name %@ already exists, please choose another name for this location!";
+
+"Alert_GroupAlreadyExists_Title" = "Group already exsists";
+
+"Alert_GroupAlreadyExists_Message" = "A group with the name %@ already exists, please choose another name for this group!";
+
+"Alert_SureToResetPassword_Title" = "Reset password";
+
+"Alert_SureToResetPassword_Message" = "A new password will be created and sent to the email address: %@. Would you like to reset your password now?";
+
+"Alert_SaveChanges_Title" = "Changes not saved";
+
+"Alert_SavePushChanges_Message" = "Do you want to save the changes?";
+
+"Alert_SaveCameraChanges_Message" = "You have changed the camera settings but not updated them. Would you like to update the settings now?";
+
+"Alert_SwitchDay_Title" = "Information";
+
+/* <string name="Alert_SwitchDay_Message">You have reached the %@ recording from %@.</string> */
+"Alert_SwitchDay_Previous" = "previous";
+
+"Alert_SwitchDay_Next" = "next";
+
+"Alert_SwitchDay_First" = "first";
+
+"Alert_SwitchDay_Last" = "last";
+
+"Alert_LoginFailed_Title" = "Login failed";
+
+"Alert_LoginFailed_Message" = "Your email or password is incorrect.";
+
+"Alert_SureToTurnOnLight_Title" = "Turn on light";
+
+"Alert_SureToTurnOnLight_Message" = "Do you want to turn on the light on camera '%@'?";
+
+"Alert_SureToTurnOffLight_Title" = "Turn off light";
+
+"Alert_SureToTurnOffLight_Message" = "Do you want to turn off the light on camera '%@'?";
+
+"Alert_WizardNoWifi_Title" = "No Wi-Fi Connection";
+
+"Alert_WizardNoWifi_Message" = "You need to be connected to a Local Area Network (LAN) in order to continue! Please enable Wi-Fi on your device and connect to a LAN.\n\nSettings -->  Wi-Fi";
+
+"Alert_ConfirmPassword_Title" = "Confirm input";
+
+"Alert_ConfirmPassword_Message" = "Please confirm your new password before proceeding!";
+
+"Alert_ProvideCompleteCredentials_Message" = "Please provide username and password before proceeding!";
+
+"Alert_ProvideValidPort_Message" = "Please provide a valid port before proceeding!";
+
+"Alert_ProvideValidInput_Message" = "Please provide a name for the camera, a location where you want to add it and its global URL before adding the camera to the platform!";
+
+"Alert_ErrorWhenAddingCamera_Message" = "An error occured while connecting the camera with our platform. Please try again. \nIf the problem persists, please contact our support team!";
+
+"Alert_InvalidInput_Title" = "Invalid input";
+
+"Alert_InvalidInput_Message" = "Please provide all required parameters before proceeding!";
+
+"Alert_SelectBrandFirst_Message" = "Please select a brand for the camera, before picking a model!";
+
+"Alert_MissingInput_Title" = "Missing input";
+
+"Alert_MissingCameraName_Message" = "Please provide a name for the camera before proceeding!";
+
+"Alert_MissingGlobalURL_Message" = "Please provide a URL that can be used to access the camera via port forwarding!";
+
+"Alert_InvalidOAK_Message" = "Please provide a valid OAK for this camera! A valid OAK consists of exactly twelve characters.";
+
+"Alert_CameraConnectionFailed_Message" = "The app could not connect to camera '%@'.\n\nIf the problem persists, please contact our support team or use the %@ Desktop application to add a camera to your account.";
+
+"Alert_SetImageMode_Title" = "Change image mode";
+
+"Alert_SetImageMode_Message" = "Changing the image mode on a Panasonic camera for the live view will also change the image mode for current recordings of that camera. Would you like to change the image mode now?";
+
+"Alert_ChangeImageModeForGuardTour_Title" = "Enable guard tour";
+
+"Alert_ChangeImageModeForGuardTour_Message" = "The guard tour can only be enabled when the camera is either in image mode 'Single' or 'Quad'. If you would like to enable the guard tour now, please switch to one of these view modes first.";
+
+"Alert_ChangeImageModeForPTZ_Title" = "Enable PTZ";
+
+"Alert_ChangeImageModeForPTZ_Message" = "PTZ functionality is only available when the camera is either in image mode 'Single' or 'Quad'. If you would like to enable PTZ functionality now, please switch to one of these view modes first.";
+
+"Alert_ChangeImageModeForPresets_Title" = "Enable PTZ presets";
+
+"Alert_ChangeImageModeForPresets_Message" = "PTZ presets are only available when the camera is either in image mode 'Single' or 'Quad'. If you would like to use PTZ presets now, please switch to one of these view modes first.";
+
+"Alert_WirelessEnabled_Title" = "Wireless connection enabled";
+
+"Alert_WirelessEnabled_Message" = "The wireless connection has been successfully configured, you can now unplug the network cable from the camera. It may take a few minutes until the camera is ready to play its video.";
+
+"Alert_LocationNameLength_Title" = "Info";
+
+"Alert_LocationNameLength_Message" = "The name of the location has to be between 2 and 64 characters.";
+
+"Alert_GroupNameLength_Title" = "Info";
+
+"Alert_GroupNameLength_Message" = "The name of the group has to be between 2 and 64 characters.";
+
+"Alert_CameraNameLength_Title" = "Info";
+
+"Alert_CameraNameLength_Message" = "The name of the camera has to be between 2 and 64 characters.";
+
+"Alert_GroupAlreadyExists_Title" = "Warning";
+
+"Alert_GroupAlreadyExists_Message" = "Group already exists";
+
+"RefreshControl_RefreshSnapshots" = "Pull and release to refresh camera snapshots...";
+
+"RefreshControl_RefreshData" = "Pull and release to refresh all cameras...";
+
+"CameraWizard_CameraWizard" = "Camera Wizard";
+
+"CameraWizard_WifiNotEnabled" = "No Wi-Fi connection!";
+
+"CameraWizard_WifiEnabled" = "Wi-Fi enabled!";
+
+"CameraWizard_WifiNotEnabledText" = "Please connect to a Local Area Network (LAN) in order to add a camera!";
+
+"CameraWizard_WifiEnabledText" = "Click continue to detect cameras in your Local Area Network (LAN)";
+
+"CameraWizard_SearchingForCameras" = "Searching for cameras...";
+
+"CameraWizard_RestartButton" = "Restart";
+
+"CameraWizard_DetectedCameras" = "Please select a camera";
+
+"CameraWizard_InfoCustomCredentials" = "This camera is locked with a username and password. Please enter username and password for that camera!";
+
+"CameraWizard_InfoDefaultCredentials" = "This camera uses factory default values for username and password. Please enter new values before proceeding!";
+
+"CameraWizard_ConnectToCamera" = "Connect to camera...";
+
+"CameraWizard_Confirm" = "Confirm";
+
+"CameraWizard_PickLocation" = "Choose";
+
+"CameraWizard_Scanning" = "Scanning your network for cameras...";
+
+"CameraWizard_DetectedXCameras" = "Detected %d cameras";
+
+"CameraWizard_Found" = "found";
+
+"CameraWizard_AddCameraManually" = "Add camera manually";
+
+"CameraWizard_AddCameraFromLAN" = "Add camera from LAN";
+
+"CameraWizard_WelcomeText" = "Welcome to the Camera Wizard! We will now take you through some easy steps to set up your camera.";
+
+"CameraWizard_AddCameraFromLANText" = "Choose this option to detect cameras on your local are network (LAN) and comfortably add it from there (Wi-Fi connection required).";
+
+"CameraWizard_AddCameraManuallyText" = "Choose this option to add the camera manually. Doing so requires you to provide the necessary camera details yourself!";
+
+"CameraWizard_NoCamerasFound" = "No cameras found!";
+
+"CameraWizard_SettingCredentials" = "Setting credentials....";
+
+"CameraWizard_VerifyingCredentials" = "Verifying credentials....";
+
+"CameraWizard_Preview" = "Preview";
+
+"CameraWizard_CameraDetailsInfo" = "You are about to add the following camera";
+
+"CameraWizard_WatchLiveStream" = "Watch live stream";
+
+"CameraWizard_AddAnotherCamera" = "Add another camera";
+
+"CameraWizard_GoBackToSettings" = "Close wizard";
+
+"CameraWizard_SuccessfulFinish" = "You have successfully connected the camera with your %@ account! Please choose one of the following options to proceed.";
+
+"CameraWizard_Congratulations" = "Congratulations";
+
+"CameraWizard_CameraWasAdded" = "Camera was added to %@";
+
+"CameraWizard_PnPInfoText" = "You can add the camera either with Plug & Play (recommended) or with port forwarding. Adding it with port forwarding means that you will have to provide a global URL that can be used to access the camera.";
+
+"CameraWizard_ConfigureWifiSettings" = "Configure wireless connection";
+
+"Loading_Loading" = "Loading...";
+
+"Loading_Logout" = "Logout...";
+
+"Loading_Login" = "Login...";
+
+"Loading_SavingSnapshot" = "Saving snapshot...";
+
+"Loading_Updating" = "Updating...";
+
+"Loading_UpdateCameraTree" = "Update camera and location data...";
+
+"Loading_AddLocation" = "Add location...";
+
+"Loading_DeleteLocation" = "Delete location...";
+
+"Loading_UpdateLocation" = "Update location....";
+
+"Loading_PushUnregistration" = "Disable push notifications...";
+
+"Loading_PushRegistration" = "Enable push notifications...";
+
+"Loading_PushSettingsUpdate" = "Update push notification settings...";
+
+"Loading_SendResetPasswordMail" = "Send email...";
+
+"Loading_NextRecording" = "Load next...";
+
+"Loading_PreviousRecording" = "Load previous...";
+
+"Loading_SendTicket" = "Send ticket...";
+
+"Loading_UpdateSnapshots" = "Update camera snapshots";
+
+"Loading_RecordingsPerCameraPerDay" = "Load recordings for %@";
+
+"Loading_RecordingsPerCamera" = "Load recordings for camera: %@";
+
+"Loading_StartRecording" = "Start recording...";
+
+"Loading_TurnOnLight" = "Turn light on...";
+
+"Loading_TurnOffLight" = "Turn light off...";
+
+"Loading_SubmitCameraOutputValues" = "Submit camera output values...";
+
+"Loading_AddCamera" = "Add camera...";
+
+"Loading_SetImageMode" = "Set image mode: %@";
+
+"Loading_EnableGuardtour" = "Enable guard tour...";
+
+"Loading_DisableGuardtour" = "Disable guard tour...";
+
+"Loading_EnableWireless" = "Enable wireless configuration...";
+
+"Success_SnapshotStored" = "Snapshot stored";
+
+"Success_RecordingStarted" = "Recording started";
+
+"Success_RecordingEnded" = "Recording ended (%@)";
+
+"Success_StreamStart" = "Start";
+
+"Success_UpdateSuccessful" = "Update successful";
+
+"Success_LocationAdded" = "Location succesfully added";
+
+"Success_LocationDeleted" = "Location successfully deleted";
+
+"Success_LocationUpdated" = "Location succesfully updated";
+
+"Success_CameraGroupAdded" = "Group succesfully added";
+
+"Success_CameraToGroupAdded" = "Camera succesfully added to group";
+
+"Success_CameraGroupDeleted" = "Group successfully deleted";
+
+"Success_CameraGroupUpdated" = "Group succesfully updated";
+
+"Success_PushUnregistrationSuccessful" = "Push notifications disabled";
+
+"Success_PushRegistrationSuccessful" = "Push notifications enabled";
+
+"Success_PushSetingsUpdateSuccessful" = "Push notification settings updated";
+
+"Success_ResetPasswordMailSent" = "Password successfully reset";
+
+"Success_TicketCreated" = "Ticket created";
+
+"Success_SnapshotsUpdated" = "All snapshots updated";
+
+"Success_LightOn" = "Light on";
+
+"Success_LightOff" = "Light off";
+
+"Success_CameraOutputValueSubmission" = "Submission finished";
+
+"Success_CameraCredentialsCorrect" = "Camera credentials verified";
+
+"Success_CredentialsReset" = "Credentials reset";
+
+"Success_AddedCamera" = "Added camera\n%@";
+
+"Success_SetImageMode" = "Successfully set new image mode";
+
+"Success_GuardtourEnabled" = "Guard tour enabled on camera: %@";
+
+"Success_GuardtourDisabled" = "Guard tour disabled on camera: %@";
+
+"Success_GuardtourEnabledAndImageModeSet" = "Guard tour enabled and image mode set to 'Single' on camera";
+
+"Success_OperationCompleted" = "Operation completed";
+
+"Error_Failed" = "Failed";
+
+"Error_UpdateFailed" = "Update failed";
+
+"Error_RecordingNotPossible" = "Recording currently not possible";
+
+"Error_RecordingInProgress" = "Recording currently in progress";
+
+"Error_SnapshotNotStored" = "No snapshot stored";
+
+"Error_LocationNotFound" = "Folder not found";
+
+"Error_NoChanges" = "No changes";
+
+"Error_CouldNotAddLocation" = "Could not add location";
+
+"Error_CouldNotDeleteLocation" = "Could not delete location";
+
+"Error_CouldNotUpdateLocation" = "Could not update location";
+
+"Error_CouldNotDeleteCameraGroup" = "Could not delete group";
+
+"Error_CouldNotUpdateCameraGroup" = "Could not update group";
+
+"Error_CouldNotAddCameraGroup" = "Could not add camera group";
+
+"Error_CouldNotAddCameraToGroup" = "Could not add camera to group";
+
+"Error_CameraAlreadyInGroup" = "This camera already belongs in this group";
+
+"Error_CouldNotDeleteCameraFromGroup" = "Could not delete camera from group";
+
+"Error_PushRegistrationFailed" = "Push registration failed";
+
+"Error_PushSettingsUpdateFailed" = "Push settings could not be updated";
+
+"Error_PushUnregistrationFailed" = "Could not disable push notifications";
+
+"Error_CouldNotResetPassword" = "Could not reset password";
+
+"Error_NoMoreRecordings" = "No more recordings for %@";
+
+"Error_CouldNotCreateTicket" = "Ticket creation failed";
+
+"Error_ComingSoon" = "Coming soon...";
+
+"Error_MultiViewFull" = "The multi view screen is full";
+
+"Error_LoginFailed" = "Login failed";
+
+"Error_DemoModeCurrentlyNotPossible" = "Demo mode currently not usable";
+
+"Error_CouldNotTurnOnLight" = "Could not turn on light";
+
+"Error_CouldNotTurnOffLight" = "Could not turn off light";
+
+"Error_CameraDoesNotSupportLight" = "This camera has no light";
+
+"Error_PasswordsDontMatch" = "Passwords don't match!";
+
+"Error_CameraCredentialsIncorrect" = "Camera credentials not correct";
+
+"Error_CouldNotSelectLocation" = " Could not select location";
+
+"Error_CredentialsResetFailed" = "Credentials reset failed";
+
+"Error_SetImageMode" = "Could not set image mode";
+
+"Error_GuardtourEnabled" = "Could not enable guard tour on camera: %@";
+
+"Error_GuardtourDisabled" = "Could not disable guard tour on camera: %@";
+
+"Error_EnableWireless" = "Could not enable wireless functionality";
+
+"Demo_PublicCameras" = "Public cameras";
+
+"Alert_FeatureNotAvailable_Title" = "Sorry";
+
+"Alert_FeatureNotAvailable_Message" = "This feature is not available in demo mode!";
+
+"Demo_StopDemo" = "Stop demo";
+
+"CameraMovement_MoveToPreset" = "Move to '%@'";
+
+"PushNotification_CLVRMotionAlert_Title" = "CLVR Motion alert";
+
+"PushNotification_CLVRMotionAlert_Message" = "A CLVR motion has been detected on camera: '%@'\n(%@)";
+
+"PushNotification_MotionAlert_Title" = "Motion alert";
+
+"PushNotification_MotionAlert_Message" = "A motion has been detected on camera: '%@'\n(%@)";
+
+"PushNotification_CameraOffline_Title" = "Camera offline";
+
+"PushNotification_CameraOffline_Message" = "Camera is down %@\n(%@)";
+
+"SearchBar_Placeholder_CameraGroups" = "Camera / Group";
+
+"SearchBar_Scope_Cameras" = "Cameras";
+
+"SearchBar_Scope_Locations" = "Locations";
+
+"NavigationButton_Back" = "Back";
+
+"NavigationButton_Edit" = "Edit";
+
+"NavigationButton_Done" = "Done";
+
+"NavigationButton_Add" = "Add";
+
+"NavigationButton_Save" = "Save";
+
+"Yes" = "Yes";
+
+"No" = "No";
+
+"OK" = "OK";
+
+"Cancel" = "Cancel";
+
+"Open" = "Open";
+
+"Dismiss" = "Dismiss";
+
+"View" = "View";
+
+"NoInfo" = "No info";
+
+"Info" = "Info";
+
+"Information" = "Information";
+
+"Proceed" = "Proceed";
+
+"Error" = "Error";
+
+"Sorry" = "Sorry";
+
+"enabled" = "enabled";
+
+"disabled" = "disabled";
+
+"ConnectionError" = "Connection error";
+
+"Months_1" = "January";
+
+"Months_2" = "February";
+
+"Months_3" = "March";
+
+"Months_4" = "April";
+
+"Months_5" = "May";
+
+"Months_6" = "June";
+
+"Months_7" = "July";
+
+"Months_8" = "August";
+
+"Months_9" = "September";
+
+"Months_10" = "October";
+
+"Months_11" = "November";
+
+"Months_12" = "December";
+
+"Weekdays_0" = "Sunday";
+
+"Weekdays_1" = "Monday";
+
+"Weekdays_2" = "Tuesday";
+
+"Weekdays_3" = "Wednesday";
+
+"Weekdays_4" = "Thursday";
+
+"Weekdays_5" = "Friday";
+
+"Weekdays_6" = "Saturday";
+
+"SettingsController_LoginButton" = "Login";
+
+"SettingsController_LogoutButton" = "Logout";
+
+"SettingsController_AboutButton" = "About iCamManager";
+
+"SettingsController_SubscribeButton" = "Subscription";
+
+"SettingsController_LoggedAsLabel" = "You are logged in as:";
+
+"SettingsController_EmailLabel" = "Email";
+
+"SettingsController_PasswordLabel" = "Password";
+
+"SettingsController_TroubleButton" = "Trouble logging in?";
+
+"SettingsController_InfoLabel" = "New to %@?";
+
+"SettingsController_InfoButton" = "Get to know us";
+
+"SettingsController_Settings" = "Settings";
+
+"SettingsController_AfterHour" = "After one hour";
+
+"SettingsController_AfterDay" = "After one day";
+
+"SettingsController_AfterWeek" = "After one week";
+
+"SettingsController_AfterMonth" = "After one month";
+
+"SettingsAccount_Account" = "Account";
+
+"SettingsAccount_General" = "Settings";
+
+"SettingsAccount_About" = "About %@";
+
+"SettingsDetailButton" = "Menu";
+
+"SettingsSignal" = "Bandwidth on 3G";
+
+"SettingsHightBandwidth" = "High bandwidth";
+
+"SettingsNotifications" = "Notifications";
+
+"login_error" = "Your username or password is incorrect.";
+
+"login_error_others" = "Server error.";
+
+"loginTimeout" = "Server not available.";
+
+"connectionLostInfo" = "Sorry! Internet connection not available.";
+
+"TableCameraList_LSU" = "Local Storage Units";
+
+"TableCameraList_AddFolder" = "Add folder";
+
+"search_recordings" = "Search Recordings";
+
+"search_data" = "Date";
+
+"search_time" = "Time";
+
+"Search" = "Search";
+
+"fullscreen" = "Fullscreen";
+
+"delete" = "Delete";
+
+"Alert_InfoTitle" = "Information";
+
+"Alert_RecordingStarted" = "Recording started";
+
+"Alert_RecordsSearchTitle" = "Search results";
+
+"Alert_MoveItemFolderTitle" = "Moving folder";
+
+"Alert_MOveItemCameraTitle" = "Moving camera";
+
+"Alert_AddFolder" = "Add folder";
+
+"Alert_Favorite" = "Add favorite";
+
+"AlertText_SnapShot" = "Image saved in your image gallery";
+
+"AlertText_AuthErrorForAppStore" = "You are not authorized to purchase from AppStore";
+
+"FullFunctionalPurchaseSuccessful" = "Purchase was successful.";
+
+"FullFunctionalPurchaseFailed" = "Purchase was failed.";
+
+"RestorePurchaseFailed" = "Purchase restore failed.";
+
+"AlertText_NeedAuthMessage" = "Please auth for use this option.";
+
+"AlertText_RecordingMessage" = "The next 60 seconds will be recorded";
+
+"AlertText_RecordingsNotFound" = "Recordings not found";
+
+/* <string name="AlertText_MoveItemFolder">Do you really want to move folder %@ to %@?</string>
+ <string name="AlertText_MoveItemCamera">Do you really want to move camera %@ to %@ folder?</string>
+ <string name="AlertText_MoveItemFolderToParent">Do you really want to move folder %@ to %@ folder?</string>
+ <string name="AlertText_MoveItemCameraToParent">Do you really want to move camera %@ to %@ folder?</string>
+*/
+"ROOT_FOLDER_NAME" = "root";
+
+"the_given_url_is_incorrect" = "The given url is incorrect.";
+
+"the_name_entered_for_the_camera_is_not_allowed" = "The name entered for the camera is not allowed.";
+
+"this_local_url_is_not_valid" = "This camera had some problems implementing this operation. Try again!";
+
+"the_username_or_password_contains_illegal_characters" = "The username or password contains invalid characters.";
+
+"please_enter_a_name_of_at_least_two_characters_for_the_camera" = "Please enter a camera name of at least two characters.";
+
+"move_to_lsu_message" = "It is not possible to move a folder or a camera from the online server to an LSU or vice versa";
+
+"favorite_add_err" = "The favorite name contains invalid characters.";
+
+"folder_add_err" = "The folder name should be betweeen 2 and 64 characters.";
+
+"folder_wrong_symbols" = "The folder name contains invalid characters.";
+
+"snapshot_not_available_h264" = "Recording snapshot is not available for h264 stream!";
+
+"url_error_text" = "The given url is incorrect.";
+
+"Brand_not_selected" = "Please select a camera brand.";
+
+"unknown" = "Unknown";
+
+"Settings_On" = "On";
+
+"Settings_Off" = "Off";
+
+"buy_app_message" = "Only for paid version, would you like to upgrade?";
+
+"buy_app" = "Upgrade";
+
+"CameraSettingsController_Name" = "Name";
+
+"CameraSettingsController_Username" = "Username";
+
+"CameraSettingsController_Password" = "Password";
+
+"CameraSettingsController_BrandModel" = "Brand/Model";
+
+"CameraSettingsController_GlobalUrl" = "Global URL";
+
+"CameraSettingsController_LocalUrl" = "Local URL";
+
+"SettingsShowDemo" = "Show demo cameras";
+
+"SettingsGeneral" = "General";
+
+"Upgrade_info" = "Upgrade & restore";
+
+"upgrade_title" = "Upgrade to Pro version";
+
+"upgrade_description" = "Upgrade to our Pro version and get instant access to many new features like push notifications and multiview screens.";
+
+"upgrade_pn_title" = "Push notifications";
+
+"upgrade_pn_description" = "With push notifications you will receive camera motion registration alarms and camera down alarms.";
+
+"upgrade_mv_title" = "Multiview";
+
+"upgrade_mv_description" = "Multiview enables you to view multiple cameras on one screen.";
+
+"upgrade_only_label" = "(tablets only)";
+
+"push_upgrade" = "For push notifications to work you need to upgrade to our Pro version. Please click the upgrade button below to upgrade right now.";
+
+"get_miltiview" = "Unlock multiview";
+
+"upgrade_info_description" = "upgrade_info_description";
+
+"calendar_title" = "Calendar";
+
+"TabButtonText_MyCameras" = "My Cameras";
+
+"TabButtonText_DemoCamerast" = "Demo Cameras";
+
+"TabButtonText_Recordings" = "Recordings";
+
+"TabButtonText_Settings" = "Settings";
+
+"Settings_Motion" = "Motion detection alerts";
+
+"Settings_CameraDown" = "Camera down alerts";
+
+"Settings_LsuDown" = "LSU down alerts";
+
+"CameraStreamNotAvailable" = "Stream not available!";
+
+"IPadRecordings_selectDate" = "Select camera from list";
+
+"PushNotificationTitle_motionAlert" = "Motion alert";
+
+"PushNotificationTitle_cameraDown" = "Camera down";
+
+"PushNotificationTitle_lsuDown" = "LSU down";
+
+"PushNotificationMessage_motionAlert" = "Motion on camera %@\n(%@)";
+
+"PushNotificationMessage_cameraDown" = "Camera is down %@\n(%@)";
+
+"PushNotificationMessage_lsuDown" = "LSU is down %@\n(%@)";
+
+"PushNotification_OneHour" = "1 hour";
+
+"PushNotification_Hours" = "%d hours";
+
+"PushNotification_OneDay" = "1 day";
+
+"PushNotification_Days" = "%d days";
+
+"PushNotification_OneWeek" = "1 week";
+
+"PushNotification_Weeks" = "%d weeks";
+
+"PushNotification_OneMonth" = "1 month";
+
+"PushNotification_Months" = "%d months";
+
+"PushNotificationInfo" = "Push notifications will be sent once per 15 minutes max.";
+
+"ALARM_MOTION" = "Motion detected on %@";
+
+"ALARM_PIR" = "PIR detected on %@";
+
+"ALARM_AUDIO" = "Audio detected on %@";
+
+"CAMERA_DOWN" = "Alarm: Camera down!";
+
+"SERVER_LSU_DOWN_USER_NOTIFICATION" = "Alarm: LSU down!";
+
+"please_select_your_camera" = "Please, select your camera";
+
+"unsupported_format" = "Unsupported Format";
+
+"pd_loading_records" = "Loading recordingsâ€¦";
+
+"pd_deleting" = "Deletingâ€¦";
+
+"http" = "http://";
+
+"delete_camera" = "Delete camera";
+
+"are_you_sure_you_want_to_delete" = "Are you sure you want to delete %1$s ?";
+
+"sd_mount_error" = "Please, mount SD card before making snapshot.";
+
+"sd_card_error" = "SD card Error";
+
+"root_folder" = "Root Location";
+
+"camera_info" = "fps: %1$d [%2$d Kbits/s]";
+
+"please_enter_folder_name" = "Please enter location name.";
+
+"camera_name_contains_illegal_characters" = "Camera name contains invalid characters.";
+
+"folder_name_contains_illegal_characters" = "Location name contains invalid characters.";
+
+"add_new" = "Add New";
+
+"success" = "Success";
+
+"push_motion_on_camera" = "Motion on \"%1$s\" (%2$s)";
+
+"push_camera_is_down" = "Camera \"%1$s\" is down(%2$s)";
+
+"push_lsu_is_down" = "LSU \"%1$s\" is down(%2$s)";
+
+"error_message_forgot_password" = "The operation wasn't successful. Try again, please";
+
+"ok_message_forgot_password" = "The operation was successful. You will receive a email with your new password";
+
+"bad_email_forgot_password" = "Your email is empty or the format is wrong. Try again, please";
+
+"know_us_subtitle" = "Cloud-based camera surveillance.";
+
+"know_us_subtitle1" = "Keep your eyes on important things with";
+
+"know_us_subtitle2" = "your PC, MAC, smartphone or table.";
+
+"know_us_subtitle3" = "When you're not on site, the app notifies";
+
+"know_us_subtitle4" = "you when something is happening, so you";
+
+"know_us_subtitle5" = "can immediately watch the live stream.";
+
+"live_hint_search_top_bar" = " Camera Name";
+
+"live_hint_search_recordings_top_bar" = " Camera Name";
+
+"search_from_date" = "From date";
+
+"search_to_date" = "From time";
+
+"search_separator_date" = "/";
+
+"availability_support2" = "Dutch time: GMT+1 (International) charges may apply.";
+
+"phone_number_support" = "tel:0031880068450";
+
+"telephone_number_create_ticket" = "Telephone number";
+
+"department_create_ticket" = "Department";
+
+"url_faq" = "https://cameramanager.zendesk.com/hc/";
+
+"error_empty_email_input" = "E-mail address field is required.";
+
+"error_email_input" = "The email address appears to be invalid. Please enter a valid email.";
+
+"error_empty_subject_input" = "Subject field is required.";
+
+"error_empty_description_input" = "Description field is required.";
+
+"create_new_ticket" = "Dear user, Thank you for contacting us. Your ticket ID is: ";
+
+"create_new_ticket2" = " Kind regards, Cameramanager";
+
+"create_new_ticket_error" = " Your support ticket couldn't be created. Try again.";
+
+"title2_manual_support" = "Cameramanager user manual";
+
+"url_manual_support" = "https://www.cameramanager.com/files/UserManual-Cameramanager-V1_6-en.pdf";
+
+"url_installation_guide_support" = "https://www.cameramanager.com/files/LSU\\%%20installation\\%%20guidev1_3.pdf";
+
+"settings_push_notifications" = "Languages";
+
+"settingsviewcontroller_infolabel" = "Looking for more settings?";
+
+"settings_link" = "See our Java App";
+
+"settings_general_title" = "Slow Connection";
+
+"settings_group_add_new" = "Add new location";
+
+"delete_camera_unchecked" = "Select at least one camera!";
+
+"camera_add_group_succesful" = "This location has been added correctly.";
+
+"camera_add_group_unsuccesful" = "This location hasn't been added correctly. Try again! ";
+
+"delete_group" = "Delete location";
+
+"update_group" = "Update location";
+
+"delete_group_unchecked" = "Select at least one location!";
+
+"camera_update_group_succesful" = "This location has been updated correctly.";
+
+"camera_update_group_unsuccesful" = "This location hasn't been updated correctly. Try again! ";
+
+"setting_updated_camera" = "Update camera";
+
+"setting_add_camera_no_folder" = "Unnamed location";
+
+"please_enter_a_password_camera" = "Please enter a password for the camera.";
+
+"please_enter_a_username_camera" = "Please enter a user name for the camera.";
+
+"the_global_url_is_incorrect" = "The Global Url is incorrect.";
+
+"setting_add_camera_create" = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ";
+
+"camera_add_camera_succesful" = "This cameras has been added correctly.";
+
+"camera_delete_camera_succesful" = "The delete task has been done correctly.";
+
+"camera_delete_camera_unsuccesful" = "The delete task coundn't be done correctly.";
+
+"camera_updated_camera_succesful" = "This cameras has been updated correctly.";
+
+"saved_settings_notifications" = "Your settings have been saved successfully.";
+
+"loading_settings_notifications" = "Loading settings...";
+
+"saving_settings_notifications" = "Saving settings...";
+
+"please_enter_a_model_camera" = "Please select a known camera model.";
+
+"settings_general_when" = "When to notify you?";
+
+"settings_general_when_motion" = "When there is motion";
+
+"settings_general_when_down" = "When camera is down";
+
+"settings_general_when_lsu" = "When LSU is down";
+
+"settings_general_how" = "How to notify you?";
+
+"create_new_ticket_with_json_error" = "Dear user, Thank you for contacting us. Your ticket has been created. ";
+
+"error_saved_settings_notifications" = "Your settings haven't been saved successfully. Try again!";
+
+"progress_dialog_send_ticket" = "Sending ticketâ€¦";
+
+"zoom_tap_liveview" = "Swipe to move camera.";
+
+"zoom_liveview" = "Zoom on the camera.";
+
+"tap_liveview" = "Swipe to move camera.";
+
+"arrows_info_text" = "Swipe to move";
+
+"know_us_button_not_convinced" = "Take a tour";
+
+"capacity_not_enabled" = "Not available";
+
+"are_you_sure_delete_all_recordings_day" = "Are you sure you want to delete all the recordings of the day: %1$s ?";
+
+"are_you_sure_delete_recording_interval" = "Are you sure you want to delete the recording: %1$s ?";
+
+"delete_recording" = "Delete Recording";
+
+"deleted_recording" = "Your recording has been deleted properly. ";
+
+"deleted_recordings" = "Your recordings have been deleted properly. ";
+
+"pd_delete_recording" = "Deleting recordingâ€¦";
+
+"intervals_tob_bar" = " Footage - Intervals";
+
+"io_outputs" = "Output";
+
+"create_ticket_forget" = "Create Support Ticket";
+
+"delete_recordings" = "Delete Recordings";
+
+"select_start_date_recordings" = "Select a start time: ";
+
+"select_end_date_recordings" = "Select an end time: ";
+
+"select_first_start_date" = "Select a start time firstly! ";
+
+"select_other_valid_date" = "End date should be greater than start date. ";
+
+"are_you_sure_delete_all_recordings_camera" = "Are you sure you want to delete all the recordings of this camera? ";
+
+"deleting_in_progress" = " Deleting...";
+
+"deleting_not_intervals_beteween" = " There isn't any recording interval between that time interval selected.";
+
+"deleted_recording_should_selected" = "At least one of the recordings to be deleted has to be selected. ";
+
+"deleting_retype_password_title" = "Retype password";
+
+"deleting_retype_password" = "You have to retype your password for delete action:";
+
+"deleting_retype_password_incorrent" = "Your password is invalid. Try again.";
+
+"deleting_check_password" = "Check";
+
+"deleting_all_button" = "Delete All";
+
+"deleting_from_date" = "Start Time";
+
+"deleting_to_date" = "End Time";
+
+"eventlist_cameradown" = "Camera Down - ";
+
+"eventlist_alarmmotion" = "Motion Detected - ";
+
+"new_app" = "New Cameramanager App!";
+
+"new_app_text" = "CameraManager has a new Android app. The new version is currently available in Google play. You can download it from the link below:";
+
+"new_app_message" = "Don't show next time.";
+
+"check_new_app_message" = "Checkout Cameramanager 2.0";
+
+"demo_message_title" = "Demo Session";
+
+"error_not_internet_connection" = "The connection was lost, please check your phone's connection";
+
+"please_enter_a_brand_camera" = "Please select a known camera brand.";
+
+"zooming_in" = "Zooming in...";
+
+"zooming_out" = "Zooming out...";
+
+"moving_camera" = "Moving camera...";
+
+"arrows_pinch_info_text" = "Pinch to zoom";
+
+"pull_to_refresh_pull_label" = "Pull to refresh...";
+
+"pull_to_refresh_release_label" = "Release to refresh...";
+
+"loading_loading" = "Loading...";
+
+"pull_to_refresh_tap_label" = "Tap to refresh...";
+
+"live_cam_controls" = "CONTROLS";
+
+"live_cam_view_modes" = "VIEWS";
+
+"live_cam_recordings" = "FOOTAGE";
+
+"add_ptz_preset_title" = "Add PTZ Preset: ";
+
+"ptz_preset_name" = "PTZ Preset Name";
+
+"add_ptz_preset_button" = "Add Preset";
+
+"add_preset_error" = "The preset couldn't be created. Try again!";
+
+"move_ptz_preset" = "Set Preset";
+
+"move_ptz_preset_error" = "The preset on the camera couln't be executed. Try again";
+
+"delete_ptz_preset" = "Delete Preset";
+
+"delete_no_ptz_preset" = "There isn't any preset to delete.";
+
+"delete_ptz_preset_error" = "The preset couldn't be deleted. Try again!";
+
+"latestrecordingprovider_latestfootage" = "Latest footage";
+
+"max_number_ptz_preset" = "You reach the max number of presets for this camera.";
+
+"swipe_and_zoom_camera" = "Pinch to zoom & swipe to move";
+
+"camera_pnp_not_modify" = "You only can modify the password for this camera.";
+
+"enable_activate_wifi" = "Enable";
+
+"error_adding_camera" = "Something went wrong while adding your camera. Possibly there is a connection error with your camera or the server. Try again later. If the problem persists, contact our support.";
+
+"error_adding_camera_2" = "This camera has been already added in another account. You should delete it and try again. If the problem persists, contact our support.";
+
+"wifi_connection" = "Wi-Fi connection";
+
+"scan_wizard_message" = "Select the cameras you would like to connect and set up. The scan process could take some time.";
+
+"scan_axis_firmware_error" = "The firmware of this camera is old. Try to add this camera manually.";
+
+"scan_not_login" = "The username or password is invalid.";
+
+"scan_authentication_dialog_title" = "Authentication";
+
+"scan_dialog_username" = "Camera Username";
+
+"scan_dialog_password" = "Camera Password";
+
+"scan_dialog_confirm_password" = "Confirm Password";
+
+"scan_camera_name" = "Camera Name";
+
+"scan_camera_oak_hint" = "XXXX-XXXX-XXXX";
+
+"scan_camera_oak" = "OAK Code";
+
+"scan_camera_folder" = "Location";
+
+"scan_not_data_enough" = "The name of the camera and oak code contain invalid characters or empty.";
+
+"scan_not_data_enough_oak" = "The oak code of the camera contains invalid characters or empty.";
+
+"scan_not_data_enough_name" = "The name of the camera contains invalid characters or empty.";
+
+"camera_wizard_added_properly2" = "The camera has been added properly.";
+
+"cameraname_wizard" = "Camera Name";
+
+"mac_wizard" = "Mac:";
+
+"ip_wizard" = "Ip:";
+
+"scan_wizard_login_message_not_default" = "To add the camera in your account, you should provide the credentials for this camera.";
+
+"scan_wizard_login_message_default_error" = "All these fields have to be filled out. Please, fill out all the fields to log in the camera";
+
+"scan_wizard_login_message_confirm_error" = "The password and confirm password fields has to be coincident. Try again.";
+
+"scan_not_setting_credentials" = "Something went wrong setting the credentials in your camera.";
+
+"pnp_enabled_title" = "PnP Enabled";
+
+"cameraname_contains_illegal_characters" = "The camera name contains invalid characters.";
+
+"oak_contains_illegal_characters" = "The OAK code contains invalid characters.";
+
+"scan_camera_global_url_hint" = "http:// Your Global Ip Address";
+
+"camera_wizard_snapshot" = "Snapshot Camera";
+
+"camera_wizard_snapshot_message" = "The app is trying to upload one snapshot from your camera.";
+
+"camera_wizard_oak_help_title" = "OAK Key: ";
+
+"camera_wizard_oak_help" = "The OAK (Owner Authentication Key) is used for authenticating you as the owner of an Axis camera. The OAK key is supplied to you when you purchase your camera.";
+
+"go_out_message" = "Press back again to exit app";
+
+"scan_wizard_not_wifi" = "Your Wi-Fi connection is not available. Press 'ok' to go to the first step.";
+
+"stream_still_recording" = "This stream is still being recorded.";
+
+"live_cam_presets_and_three_sixty" = "PTZ PRESETS & 360 VIEWS";
+
+"wireless_settings_wizard" = "Wireless Settings";
+
+"ssid_wifi_wizard" = "Wireless Name (SSID)";
+
+"ssid_wifi_manually_wizard" = "Enter SSID manually";
+
+"band_wifi_wizard" = "Communication Mode";
+
+"encriptation_wifi_wizard" = "Security Mode";
+
+"password_wifi_wizard" = "Wireless Password";
+
+"scan_wizard_wifi_message_default_error" = "All these fields has to be filled. Please, fill all the fields.";
+
+"other_name_wifi_wizard" = "Other...";
+
+"take_out_cable_wifi_wizard" = "The camera is rebooting. You should now unplug the network cable to enable wireless mode for this camera.";
+
+"ptz_controls_title" = "PTZ Controls";
+
+"no_wireless_settings" = "Your camera doesn't have wireless capabilities.";
+
+"error_setting_camera" = "Something went wrong while setting your camera. Possibly there is a connection error with your camera or the server. Try again later. If the problem persists, contact our support.";
+
+"info_wireless_setting_camera" = "Please provide the following credentials to add your camera via WiFi";
+
+"info_wireless_setting_camera_ok" = "The wireless settings have been updated. Please disconnect the network cable.";
+
+"message_enough_permission" = "Your credentials have insufficient privileges to execute this operation.";
+
+"modify_server_parameters" = "Change Server Properties";
+
+"server_parameter_dialog" = "Server Properties";
+
+"https_server_parameter_dialog" = "Https Port";
+
+"http_server_parameter_dialog" = "Http Port";
+
+"rtsp_server_parameter_dialog" = "Rtsp Port";
+
+"please_enter_global_url" = "Please enter a global url.";
+
+"please_enter_global_url_illegal_characters" = "Global url contains invalid characters.";
+
+"please_enter_http_port" = "Please enter a http port.";
+
+"please_enter_https_port" = "Please enter a https port.";
+
+"please_enter_rtsp_port" = "Please enter a rtsp port.";
+
+"new_cm" = "New to Cameramanager?";
+
+"three_sixty_cameras_message_error" = "The view selected couldn't be updated";
+
+"three_sixty_cameras_message_error_get" = "The app couldn't access to the 360 view information of your cameras";
+
+"three_sixty_cameras_message_title" = "360 Views";
+
+"settings_general" = "General & Notifications";
+
+"edit_folder" = "Edit Location";
+
+"error_message_unknow_email_forgot_password" = "This email is unknown for our system. Try again, please.";
+
+"AnalyticsEvent" = "CLVR event detected on %@";
+
+
+
+
+    
+    
+    
+"arrows_info_text" = "Swipe to move";
+"arrows_pinch_info_text" = "Pinch to zoom";
+"ssid_wifi_wizard" = "Wireless Name (SSID)";
+"info_wireless_setting_camera" = "Please provide the following credentials to add your camera via WiFi";
+"ip_wizard" = "Ip:";
+"mac_wizard" = "Mac:";
+"camera_wizard_snapshot_message" = "The app is trying to upload one snapshot from your camera.";
+"live_hint_search_recordings_top_bar" = " Camera Name";
+"search_from_date" = "From date";
+"camera_wizard_snapshot" = "Snapshot Camera";
+"search_to_date" = "From time";
+"camera_wizard_added_properly2" = "The camera has been added properly.";
+"encriptation_wifi_wizard" = "Security Mode";
+"delete_recordings" = "Delete Recordings";
+"password_wifi_wizard" = "Wireless Password";
+"ssid_wifi_manually_wizard" = "Enter SSID manually";
+"band_wifi_wizard" = "Communication Mode";
+"telephone_number_create_ticket" = "Telephone number";
+"department_create_ticket" = "Department";
+"know_us_subtitle" = "Cloud-based camera surveillance.";
+"know_us_subtitle1" = "Keep your eyes on important things with";
+"know_us_subtitle2" = "your PC, MAC, smartphone or table.";
+"know_us_subtitle3" = "When you're not on site, the app notifies";
+"know_us_subtitle4" = "you when something is happening, so you";
+"know_us_subtitle5" = "can immediately watch the live stream.";
+"cameraname_wizard" = "Camera Name";
+"deleting_check_password" = "Check";
+"know_us_button_not_convinced" = "Take a tour";
+"live_hint_search_top_bar" = " Camera Name";
+"deleting_retype_password_title" = "Retype password";
+"deleting_retype_password" = "You have to retype your password for delete action:";
+"create_ticket_forget" = "Create Support Ticket";
+"rtsp_server_parameter_dialog" = "Rtsp Port";
+"http_server_parameter_dialog" = "Http Port";
+"deleting_from_date" = "Start Time";
+"https_server_parameter_dialog" = "Https Port";
+"enable_activate_wifi" = "Enable";
+"ptz_preset_name" = "PTZ Preset Name";
+"deleting_all_button" = "Delete All";
+"deleting_to_date" = "End Time";
+"add_ptz_preset_title" = "Add PTZ Preset: ";
+"add_ptz_preset_button" = "Add Preset";
+"ptz_controls_title" = "PTZ Controls";
+"new_app_message" = "Don't show next time.";
+"please_select_your_camera" = "Please, select your camera";
+"intervals_tob_bar" = " Footage - Intervals";
+"modify_server_parameters" = "Change Server Properties";
+"new_cm" = "New to Cameramanager?";
+"scan_dialog_password" = "Camera Password";
+"scan_dialog_confirm_password" = "Confirm Password";
+"availability_support2" = "Dutch time: GMT+1 (International) charges may apply.";
+"scan_camera_name" = "Camera Name";
+"scan_camera_oak" = "OAK Code";
+"scan_camera_oak_hint" = "XXXX-XXXX-XXXX";
+"scan_camera_folder" = "Location";
+"pnp_enabled_title" = "PnP Enabled";
+
+
+"scan_dialog_username" = "Camera Username";
+"scan_wizard_message" = "Select the cameras you would like to connect and set up. The scan process could take some time.";
+"search_separator_date" = "/";
+"title2_manual_support" = "Cameramanager user manual";
+"wireless_settings_wizard" = "Wireless Settings";
+"scan_wizard_login_message_not_default" = "To add the camera in your account, you should provide the credentials for this camera.";
+"server_parameter_dialog" = "Server Properties";
+"unsupported_format" = "Unsupported Format";
+"settings_group_add_new" = "Add new location";
+"setting_add_camera_no_folder" = "Unnamed location";
+"select_start_date_recordings" = "Select a start time: ";
+"settings_general_when" = "When to notify you?";
+"settings_general_when_motion" = "When there is motion";
+"settings_general_when_down" = "When camera is down";
+"settings_general_when_lsu" = "When LSU is down";
+"settings_general_how" = "How to notify you?";
+"settings_push_notifications" = "Languages";
+"SupportViewController_GetSupport" = "Get Support";
+"SupportViewController_About" = "About the app";
+"select_end_date_recordings" = "Select an end time: ";
+"settings_general_title" = "Slow Connection";
+"edit_folder" = "Edit Location";
+"camera_info" = "fps: %1$d [%2$d Kbits/s]";
+"camera_delete_camera_succesful" = "The delete task has been done correctly.";
+"camera_delete_camera_unsuccesful" = "The delete task coundn't be done correctly.";
+"camera_updated_camera_succesful" = "This cameras has been updated correctly.";
+"error_adding_camera" = "Something went wrong while adding your camera. Possibly there is a connection error with your camera or the server. Try again later. If the problem persists, contact our support.";
+"error_adding_camera_2" = "This camera has been already added in another account. You should delete it and try again. If the problem persists, contact our support.";
+"capacity_not_enabled" = "Not available";
+"camera_wizard_oak_help_title" = "OAK Key: ";
+"camera_wizard_oak_help" = "The OAK (Owner Authentication Key) is used for authenticating you as the owner of an Axis camera. The OAK key is supplied to you when you purchase your camera.";
+"are_you_sure_you_want_to_delete" = "Are you sure you want to delete %1$s ?";
+"are_you_sure_delete_all_recordings_camera" = "Are you sure you want to delete all the recordings of this camera? ";
+"add_preset_error" = "The preset couldn't be created. Try again!";
+"bad_email_forgot_password" = "Your email is empty or the format is wrong. Try again, please";
+"camera_add_group_succesful" = "This location has been added correctly.";
+"camera_add_group_unsuccesful" = "This location hasn't been added correctly. Try again! ";
+"camera_add_camera_succesful" = "This cameras has been added correctly.";
+"cameraname_contains_illegal_characters" = "The camera name contains invalid characters.";
+"camera_update_group_succesful" = "This location has been updated correctly.";
+"camera_update_group_unsuccesful" = "This location hasn't been updated correctly. Try again! ";
+"create_new_ticket_with_json_error" = "Dear user, Thank you for contacting us. Your ticket has been created. ";
+"create_new_ticket" = "Dear user, Thank you for contacting us. Your ticket ID is: ";
+"create_new_ticket2" = " Kind regards, Cameramanager";
+"create_new_ticket_error" = " Your support ticket couldn't be created. Try again.";
+"camera_name_contains_illegal_characters" = "Camera name contains invalid characters.";
+"folder_name_contains_illegal_characters" = "Location name contains invalid characters.";
+
+"live_cam_controls" = "CONTROLS";
+"live_cam_presets_and_three_sixty" = "PTZ PRESETS &amp; 360 VIEWS";
+"live_cam_recordings" = "FOOTAGE";
+"live_cam_view_modes" = "VIEWS";
+"message_enough_permission" = "Your credentials have insufficient privileges to execute this operation.";
+"move_ptz_preset" = "Set Preset";
+"move_ptz_preset_error" = "The preset on the camera couln't be executed. Try again";
+"delete_ptz_preset" = "Delete Preset";
+"delete_no_ptz_preset" = "There isn't any preset to delete.";
+"delete_ptz_preset_error" = "The preset couldn't be deleted. Try again!";
+"check_new_app_message" = "Checkout Cameramanager 2.0";
+"delete_camera" = "Delete camera";
+"delete_camera_unchecked" = "Select at least one camera!";
+"delete_group" = "Delete location";
+"delete_recording" = "Delete Recording";
+"deleted_recording" = "Your recording has been deleted properly. ";
+"deleted_recordings" = "Your recordings have been deleted properly. ";
+"deleting_in_progress" = " Deleting...";
+"deleting_not_intervals_beteween" = " There isn't any recording interval between that time interval selected.";
+"deleted_recording_should_selected" = "At least one of the recordings to be deleted has to be selected. ";
+"deleting_retype_password_incorrent" = "Your password is invalid. Try again.";
+"demo_message_title" = "Demo Session";
+"error_empty_email_input" = "E-mail address field is required.";
+"error_email_input" = "The email address appears to be invalid. Please enter a valid email.";
+"error_empty_subject_input" = "Subject field is required.";
+"error_empty_description_input" = "Description field is required.";
+"go_out_message" = "Press back again to exit app";
+"please_enter_global_url" = "Please enter a global url.";
+"please_enter_global_url_illegal_characters" = "Global url contains invalid characters.";
+"please_enter_http_port" = "Please enter a http port.";
+"please_enter_https_port" = "Please enter a https port.";
+"please_enter_rtsp_port" = "Please enter a rtsp port.";
+"progress_dialog_send_ticket" = "Sending ticket…";
+"push_camera_is_down" = "Camera \"%1$s\" is down(%2$s)";
+
+"ALARM_PIR" = "Alarm: PIR detected!";
+"ALARM_AUDIO" = "Alarm: Sound detected!";
+
+"pd_loading_records" = "Loading recordings…";
+"pd_deleting" = "Deleting…";
+"http" = "http://";
+
+"sd_mount_error" = "Please, mount SD card before making snapshot.";
+"sd_card_error" = "SD card Error";
+"root_folder" = "Root Location";
+"please_enter_folder_name" = "Please enter location name.";
+
+"add_new" = "Add New";
+"success" = "Success";
+"push_motion_on_camera" = "Motion on \"%1$s\" (%2$s)";
+"push_lsu_is_down" = "LSU \"%1$s\" is down(%2$s)";
+"error_message_forgot_password" = "The operation wasn't successful. Try again, please";
+"ok_message_forgot_password" = "The operation was successful. You will receive a email with your new password";
+
+"phone_number_support" = "tel:0031880068450";
+
+"url_faq" = "https://cameramanager.zendesk.com/hc/";
+
+"url_manual_support" = "https://www.cameramanager.com/files/UserManual-Cameramanager-V1_6-en.pdf";
+"url_installation_guide_support" = "https://www.cameramanager.com/files/LSU\%%20installation\%%20guidev1_3.pdf";
+"settingsviewcontroller_infolabel" = "Looking for more settings?";
+
+
+
+"update_group" = "Update location";
+"delete_group_unchecked" = "Select at least one location!";
+
+"setting_updated_camera" = "Update camera";
+
+"please_enter_a_password_camera" = "Please enter a password for the camera.";
+"please_enter_a_username_camera" = "Please enter a user name for the camera.";
+"the_global_url_is_incorrect" = "The Global Url is incorrect.";
+
+"saved_settings_notifications" = "Your settings have been saved successfully.";
+"loading_settings_notifications" = "Loading settings...";
+"saving_settings_notifications" = "Saving settings...";
+"please_enter_a_model_camera" = "Please select a known camera model.";
+
+"error_saved_settings_notifications" = "Your settings haven't been saved successfully. Try again!";
+"zoom_tap_liveview" = "Swipe to move camera.";
+"zoom_liveview" = "Zoom on the camera.";
+"tap_liveview" = "Swipe to move camera.";
+
+"delete_all_recordings_day" = "Are you sure you want to delete all the recordings of the day: %1$s ?";
+"are_you_sure_delete_recording_interval" = "Are you sure you want to delete the recording: %1$s ?";
+
+"pd_delete_recording" = "Deleting recording…";
+"io_outputs" = "Output";
+
+"select_first_start_date" = "Select a start time firstly! ";
+"select_other_valid_date" = "End date should be greater than start date. ";
+
+"eventlist_cameradown" = "Camera Down - ";
+"eventlist_alarmmotion" = "Motion Detected - ";
+"new_app" = "New Cameramanager App!";
+"new_app_text" = "CameraManager has a new Android app. The new version is currently available in Google play. You can download it from the link below:";
+
+"error_not_internet_connection" = "The connection was lost, please check your phone's connection";
+"please_enter_a_brand_camera" = "Please select a known camera brand.";
+"zooming_in" = "Zooming in...";
+"zooming_out" = "Zooming out...";
+"moving_camera" = "Moving camera...";
+"pull_to_refresh_pull_label" = "Pull to refresh...";
+"pull_to_refresh_release_label" = "Release to refresh...";
+"loading_loading" = "Loading...";
+"pull_to_refresh_tap_label" = "Tap to refresh...";
+
+"latestrecordingprovider_latestfootage" = "Latest footage";
+"max_number_ptz_preset" = "You reach the max number of presets for this camera.";
+"swipe_and_zoom_camera" = "Pinch to zoom &amp; swipe to move";
+"camera_pnp_not_modify" = "You only can modify the password for this camera.";
+"wifi_connection" = "Wi-Fi connection";
+"scan_axis_firmware_error" = "The firmware of this camera is old. Try to add this camera manually.";
+"scan_not_login" = "The username or password is invalid.";
+"scan_authentication_dialog_title" = "Authentication";
+
+"scan_not_data_enough" = "The name of the camera and oak code contain invalid characters or empty.";
+"scan_not_data_enough_oak" = "The oak code of the camera contains invalid characters or empty.";
+"scan_not_data_enough_name" = "The name of the camera contains invalid characters or empty.";
+
+"scan_wizard_login_message_default_error" = "All these fields have to be filled out. Please, fill out all the fields to log in the camera";
+"scan_wizard_login_message_confirm_error" = "The password and confirm password fields has to be coincident. Try again.";
+"scan_not_setting_credentials" = "Something went wrong setting the credentials in your camera.";
+
+"oak_contains_illegal_characters" = "The OAK code contains invalid characters.";
+"scan_camera_global_url_hint" = "http:// Your Global Ip Address";
+
+"scan_wizard_not_wifi" = "Your Wi-Fi connection is not available. Press 'ok' to go to the first step.";
+"stream_still_recording" = "This stream is still being recorded.";
+
+"scan_wizard_wifi_message_default_error" = "All these fields has to be filled. Please, fill all the fields.";
+"other_name_wifi_wizard" = "Other...";
+"take_out_cable_wifi_wizard" = "The camera is rebooting. You should now unplug the network cable to enable wireless mode for this camera.";
+"no_wireless_settings" = "Your camera doesn't have wireless capabilities.";
+"error_setting_camera" = "Something went wrong while setting your camera. Possibly there is a connection error with your camera or the server. Try again later. If the problem persists, contact our support.";
+"info_wireless_setting_camera_ok" = "The wireless settings have been updated. Please disconnect the network cable.";
+
+"three_sixty_cameras_message_error" = "The view selected couldn't be updated";
+"three_sixty_cameras_message_error_get" = "The app couldn't access to the 360 view information of your cameras";
+"three_sixty_cameras_message_title" = "360 Views";
+"settings_general" = "General &amp; Notifications";
+"error_message_unknow_email_forgot_password" = "This email is unknown for our system. Try again, please.";
